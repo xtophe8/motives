@@ -40,4 +40,4 @@ motives3<-res.HCPC$data.clust
 library(prettyR)
 describe(motives3$clust)
 
-#ma modification
+#ma modification une troisième fois
